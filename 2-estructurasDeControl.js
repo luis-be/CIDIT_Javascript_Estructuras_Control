@@ -40,7 +40,7 @@ function repetirMensaje() {
     let i = 0;
     do {
         console.log("Estoy aprendiendo JavaScript");
-        i++; n
+        i++;
     } while (i < 5);
 }
 
